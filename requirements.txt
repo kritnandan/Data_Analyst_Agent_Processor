@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+numpy
+pdfplumber
+python-docx
+Pillow
+transformers
